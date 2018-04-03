@@ -8,13 +8,18 @@
 
 ![products](https://user-images.githubusercontent.com/32868919/38257513-f50fdd0e-3725-11e8-8f40-6b156745468f.png)
 
+
 The user needs to log in with Google to proceed with the purchase.
 
+
 ![login_google](https://user-images.githubusercontent.com/32868919/38257837-b205cbbc-3726-11e8-83fd-57d4e86634ba.png)
+
+
 
 The **_username_** and his **_avatar_** is in the upper right corner, indicating that he have logged in correctly.
 
 ![user](https://user-images.githubusercontent.com/32868919/38257701-51f2031c-3726-11e8-8a58-93bb2dcd5b4a.png)
+
 
 Any product can be search only by introducing an specific word and the results will be display immediately.
 
@@ -43,3 +48,4 @@ Contiene un **carrito de compras** donde se puede visualizar los elementos agreg
 
 ## Desarrollado para y con:
 [Laboratoria](http://laboratoria.la)
+
